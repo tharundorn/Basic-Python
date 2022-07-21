@@ -1,2 +1,3 @@
 print("Hello Buriram")
-print("Hello Buriram")
+
+print("by KubtunTHa")
